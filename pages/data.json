@@ -1,0 +1,2130 @@
+[
+  {
+    "slug": "jorge-luiz-frello-filho",
+    "spieler_id": 102017
+  },
+  {
+    "slug": "cedric-ricardo-alves-soares",
+    "spieler_id": 112988
+  },
+  {
+    "slug": "leandro-trossard",
+    "spieler_id": 144028
+  },
+  {
+    "slug": "mohamed-naser-elsayed-elneny",
+    "spieler_id": 160438
+  },
+  {
+    "slug": "oleksandr-zinchenko",
+    "spieler_id": 203853
+  },
+  {
+    "slug": "thomas-teye-partey",
+    "spieler_id": 230784
+  },
+  {
+    "slug": "david-raya-martin",
+    "spieler_id": 262749
+  },
+  {
+    "slug": "kai-havertz",
+    "spieler_id": 309400
+  },
+  {
+    "slug": "martin-odegaard",
+    "spieler_id": 316264
+  },
+  {
+    "slug": "takehiro-tomiyasu",
+    "spieler_id": 331560
+  },
+  {
+    "slug": "ben-white",
+    "spieler_id": 335721
+  },
+  {
+    "slug": "edward-nketiah",
+    "spieler_id": 340324
+  },
+  {
+    "slug": "reiss-nelson",
+    "spieler_id": 340325
+  },
+  {
+    "slug": "declan-rice",
+    "spieler_id": 357662
+  },
+  {
+    "slug": "gabriel-fernando-de-jesus",
+    "spieler_id": 363205
+  },
+  {
+    "slug": "emile-smith-rowe",
+    "spieler_id": 392765
+  },
+  {
+    "slug": "jurrien-maduro",
+    "spieler_id": 420243
+  },
+  {
+    "slug": "jakub-piotr-kiwior",
+    "spieler_id": 425918
+  },
+  {
+    "slug": "aaron-ramsdale",
+    "spieler_id": 427568
+  },
+  {
+    "slug": "bukayo-saka",
+    "spieler_id": 433177
+  },
+  {
+    "slug": "gabriel-dos-santos-magalhaes",
+    "spieler_id": 435338
+  },
+  {
+    "slug": "karl-jakob-hein",
+    "spieler_id": 493513
+  },
+  {
+    "slug": "william-saliba",
+    "spieler_id": 495666
+  },
+  {
+    "slug": "fabio-daniel-ferreira-vieira",
+    "spieler_id": 537598
+  },
+  {
+    "slug": "gabriel-teodoro-martinelli-silva",
+    "spieler_id": 655488
+  },
+  {
+    "slug": "andrew-lonergan",
+    "spieler_id": 14044
+  },
+  {
+    "slug": "ashley-young",
+    "spieler_id": 14086
+  },
+  {
+    "slug": "seamus-coleman",
+    "spieler_id": 68390
+  },
+  {
+    "slug": "michael-keane",
+    "spieler_id": 118534
+  },
+  {
+    "slug": "idrissa-gana-gueye",
+    "spieler_id": 126665
+  },
+  {
+    "slug": "abdoulaye-doucoure",
+    "spieler_id": 127187
+  },
+  {
+    "slug": "jordan-pickford",
+    "spieler_id": 130164
+  },
+  {
+    "slug": "james-tarkowski",
+    "spieler_id": 173504
+  },
+  {
+    "slug": "bamidele-alli",
+    "spieler_id": 207929
+  },
+  {
+    "slug": "andre-filipe-tavares-gomes",
+    "spieler_id": 221025
+  },
+  {
+    "slug": "dominic-calvert-lewin",
+    "spieler_id": 306024
+  },
+  {
+    "slug": "joao-manuel-neves-virginia",
+    "spieler_id": 329813
+  },
+  {
+    "slug": "ben-godfrey",
+    "spieler_id": 343475
+  },
+  {
+    "slug": "arnaut-danjuma-groeneveld",
+    "spieler_id": 355861
+  },
+  {
+    "slug": "vitalii-mykolenko",
+    "spieler_id": 404842
+  },
+  {
+    "slug": "jack-harrison",
+    "spieler_id": 417346
+  },
+  {
+    "slug": "nathan-patterson",
+    "spieler_id": 424015
+  },
+  {
+    "slug": "amadou-zeund-georges-mvom-onana",
+    "spieler_id": 485706
+  },
+  {
+    "slug": "james-garner",
+    "spieler_id": 505219
+  },
+  {
+    "slug": "dwight-mcneil",
+    "spieler_id": 584769
+  },
+  {
+    "slug": "norberto-bercique-gomes-betuncal",
+    "spieler_id": 595809
+  },
+  {
+    "slug": "lewis-norman-dobbin",
+    "spieler_id": 627248
+  },
+  {
+    "slug": "jarrad-branthwaite",
+    "spieler_id": 661053
+  },
+  {
+    "slug": "tyler-onyango",
+    "spieler_id": 663225
+  },
+  {
+    "slug": "youssef-ramalho-chermiti",
+    "spieler_id": 670688
+  },
+  {
+    "slug": "thiago-alcantara-do-nascimento",
+    "spieler_id": 60444
+  },
+  {
+    "slug": "adrian-san-miguel-del-castillo",
+    "spieler_id": 71271
+  },
+  {
+    "slug": "joel-andre-job-matip",
+    "spieler_id": 82105
+  },
+  {
+    "slug": "alisson-ramses-becker",
+    "spieler_id": 105470
+  },
+  {
+    "slug": "virgil-van-dijk",
+    "spieler_id": 139208
+  },
+  {
+    "slug": "wataru-endo",
+    "spieler_id": 146310
+  },
+  {
+    "slug": "mohamed-salah-ghaly",
+    "spieler_id": 148455
+  },
+  {
+    "slug": "andrew-robertson",
+    "spieler_id": 234803
+  },
+  {
+    "slug": "joe-gomez",
+    "spieler_id": 256178
+  },
+  {
+    "slug": "trent-alexander-arnold",
+    "spieler_id": 314353
+  },
+  {
+    "slug": "konstantinos-tsimikas",
+    "spieler_id": 338070
+  },
+  {
+    "slug": "caoimhin-kelleher",
+    "spieler_id": 340918
+  },
+  {
+    "slug": "diogo-jose-teixeira-da-silva",
+    "spieler_id": 340950
+  },
+  {
+    "slug": "ibrahima-konate",
+    "spieler_id": 357119
+  },
+  {
+    "slug": "curtis-jones-2001-01-30",
+    "spieler_id": 433188
+  },
+  {
+    "slug": "cody-mathes-gakpo",
+    "spieler_id": 434675
+  },
+  {
+    "slug": "dominik-szoboszlai",
+    "spieler_id": 451276
+  },
+  {
+    "slug": "ryan-gravenberch",
+    "spieler_id": 478573
+  },
+  {
+    "slug": "luis-fernando-diaz-marulanda",
+    "spieler_id": 480692
+  },
+  {
+    "slug": "",
+    "spieler_id": 503679
+  },
+  {
+    "slug": "alexis-mac-allister",
+    "spieler_id": 534033
+  },
+  {
+    "slug": "darwin-gabriel-nunez-ribeiro",
+    "spieler_id": 546543
+  },
+  {
+    "slug": "harvey-elliot",
+    "spieler_id": 565822
+  },
+  {
+    "slug": "conor-bradley-2003-07-09",
+    "spieler_id": 624258
+  },
+  {
+    "slug": "jarell-quansah-2003-01-29",
+    "spieler_id": 632349
+  },
+  {
+    "slug": "bobby-clark",
+    "spieler_id": 712117
+  },
+  {
+    "slug": "ben-doak",
+    "spieler_id": 719673
+  },
+  {
+    "slug": "stefan-bajcetic-maquieira",
+    "spieler_id": 864799
+  },
+  {
+    "slug": "fraser-forster",
+    "spieler_id": 52570
+  },
+  {
+    "slug": "heung-min-son",
+    "spieler_id": 91845
+  },
+  {
+    "slug": "pierre-emile-hojbjerg",
+    "spieler_id": 167799
+  },
+  {
+    "slug": "timo-werner",
+    "spieler_id": 170527
+  },
+  {
+    "slug": "ben-davies-1993-04-24",
+    "spieler_id": 192765
+  },
+  {
+    "slug": "alfie-whiteman",
+    "spieler_id": 282823
+  },
+  {
+    "slug": "guglielmo-vicario",
+    "spieler_id": 286047
+  },
+  {
+    "slug": "james-maddison",
+    "spieler_id": 294057
+  },
+  {
+    "slug": "giovani-lo-celso",
+    "spieler_id": 348795
+  },
+  {
+    "slug": "rodrigo-bentancur-colman",
+    "spieler_id": 354362
+  },
+  {
+    "slug": "cristian-gabriel-romero",
+    "spieler_id": 355915
+  },
+  {
+    "slug": "richarlison-de-andrade",
+    "spieler_id": 378710
+  },
+  {
+    "slug": "kouassi-ryan-sessegnon",
+    "spieler_id": 392775
+  },
+  {
+    "slug": "manor-solomon",
+    "spieler_id": 396638
+  },
+  {
+    "slug": "oliver-skipp",
+    "spieler_id": 406638
+  },
+  {
+    "slug": "yves-bissouma",
+    "spieler_id": 410425
+  },
+  {
+    "slug": "brandon-austin",
+    "spieler_id": 428016
+  },
+  {
+    "slug": "dejan-kulusevski",
+    "spieler_id": 431755
+  },
+  {
+    "slug": "brennan-johnson",
+    "spieler_id": 470607
+  },
+  {
+    "slug": "emerson-aparecido-leite-de-souza-junior",
+    "spieler_id": 476344
+  },
+  {
+    "slug": "bryan-gil-salvatierra",
+    "spieler_id": 537382
+  },
+  {
+    "slug": "pedro-antonio-porro-sauceda",
+    "spieler_id": 553875
+  },
+  {
+    "slug": "iyenoma-destiny-udogie",
+    "spieler_id": 556385
+  },
+  {
+    "slug": "mickey-van-de-ven",
+    "spieler_id": 557459
+  },
+  {
+    "slug": "",
+    "spieler_id": 568559
+  },
+  {
+    "slug": "pape-matar-sarr",
+    "spieler_id": 568693
+  },
+  {
+    "slug": "scott-carson",
+    "spieler_id": 14555
+  },
+  {
+    "slug": "mateo-kovacic",
+    "spieler_id": 51471
+  },
+  {
+    "slug": "stefan-ortega-moreno",
+    "spieler_id": 85941
+  },
+  {
+    "slug": "kevin-de-bruyne",
+    "spieler_id": 88755
+  },
+  {
+    "slug": "kyle-walker",
+    "spieler_id": 95424
+  },
+  {
+    "slug": "nathan-ake",
+    "spieler_id": 177476
+  },
+  {
+    "slug": "john-stones",
+    "spieler_id": 186590
+  },
+  {
+    "slug": "jack-grealish",
+    "spieler_id": 203460
+  },
+  {
+    "slug": "ederson-santana-de-moraes",
+    "spieler_id": 238223
+  },
+  {
+    "slug": "bernardo-mota-veiga-de-carvalho-e-silva",
+    "spieler_id": 241641
+  },
+  {
+    "slug": "ruben-santos-gato-alves-dias",
+    "spieler_id": 258004
+  },
+  {
+    "slug": "manuel-obafemi-akanji",
+    "spieler_id": 284730
+  },
+  {
+    "slug": "rodrigo-hernandez-cascante",
+    "spieler_id": 357565
+  },
+  {
+    "slug": "sergio-gomez-martin",
+    "spieler_id": 366930
+  },
+  {
+    "slug": "philip-foden",
+    "spieler_id": 406635
+  },
+  {
+    "slug": "erling-haland",
+    "spieler_id": 418560
+  },
+  {
+    "slug": "josko-gvardiol",
+    "spieler_id": 475959
+  },
+  {
+    "slug": "jeremy-doku",
+    "spieler_id": 486049
+  },
+  {
+    "slug": "julian-alvarez",
+    "spieler_id": 576024
+  },
+  {
+    "slug": "matheus-luiz-nunes",
+    "spieler_id": 601883
+  },
+  {
+    "slug": "oscar-bobb",
+    "spieler_id": 661207
+  },
+  {
+    "slug": "rico-lewis",
+    "spieler_id": 701057
+  },
+  {
+    "slug": "chris-basham",
+    "spieler_id": 52495
+  },
+  {
+    "slug": "wesley-foderingham",
+    "spieler_id": 61697
+  },
+  {
+    "slug": "oliver-norwood",
+    "spieler_id": 73547
+  },
+  {
+    "slug": "adam-davies",
+    "spieler_id": 121254
+  },
+  {
+    "slug": "john-egan",
+    "spieler_id": 121324
+  },
+  {
+    "slug": "jack-robinson",
+    "spieler_id": 128909
+  },
+  {
+    "slug": "george-baldock",
+    "spieler_id": 146690
+  },
+  {
+    "slug": "ben-osborn",
+    "spieler_id": 218087
+  },
+  {
+    "slug": "ivo-grbic",
+    "spieler_id": 226073
+  },
+  {
+    "slug": "max-lowe",
+    "spieler_id": 258885
+  },
+  {
+    "slug": "oliver-mcburnie",
+    "spieler_id": 298477
+  },
+  {
+    "slug": "tom-davies-1998-06-30",
+    "spieler_id": 314210
+  },
+  {
+    "slug": "gustavo-hamer",
+    "spieler_id": 322985
+  },
+  {
+    "slug": "",
+    "spieler_id": 348623
+  },
+  {
+    "slug": "anel-ahmedhodzic",
+    "spieler_id": 377468
+  },
+  {
+    "slug": "jordan-yamoah-amissah",
+    "spieler_id": 385412
+  },
+  {
+    "slug": "auston-trusty",
+    "spieler_id": 389253
+  },
+  {
+    "slug": "rhian-brewster",
+    "spieler_id": 406560
+  },
+  {
+    "slug": "ben-brereton",
+    "spieler_id": 426192
+  },
+  {
+    "slug": "jayden-bogle",
+    "spieler_id": 465717
+  },
+  {
+    "slug": "cameron-archer",
+    "spieler_id": 533662
+  },
+  {
+    "slug": "rhys-norrington-davies",
+    "spieler_id": 543164
+  },
+  {
+    "slug": "anis-ben-slimane",
+    "spieler_id": 546712
+  },
+  {
+    "slug": "yasser-larouci",
+    "spieler_id": 554251
+  },
+  {
+    "slug": "james-mcatee",
+    "spieler_id": 583199
+  },
+  {
+    "slug": "will-osula",
+    "spieler_id": 609556
+  },
+  {
+    "slug": "vinicius-de-souza-costa",
+    "spieler_id": 663581
+  },
+  {
+    "slug": "andre-brooks",
+    "spieler_id": 746739
+  },
+  {
+    "slug": "daniel-jebbison",
+    "spieler_id": 746740
+  },
+  {
+    "slug": "lukasz-fabianski",
+    "spieler_id": 29692
+  },
+  {
+    "slug": "angelo-obinze-ogbonna",
+    "spieler_id": 48002
+  },
+  {
+    "slug": "aaron-cresswell",
+    "spieler_id": 92571
+  },
+  {
+    "slug": "michail-antonio",
+    "spieler_id": 104124
+  },
+  {
+    "slug": "alphonse-areola",
+    "spieler_id": 120629
+  },
+  {
+    "slug": "daniel-william-john-ings",
+    "spieler_id": 134294
+  },
+  {
+    "slug": "kurt-happy-zouma",
+    "spieler_id": 157509
+  },
+  {
+    "slug": "vladimir-coufal",
+    "spieler_id": 157672
+  },
+  {
+    "slug": "james-ward-prowse",
+    "spieler_id": 181579
+  },
+  {
+    "slug": "emerson-palmieri-dos-santos",
+    "spieler_id": 181778
+  },
+  {
+    "slug": "gnaly-maxwell-cornet",
+    "spieler_id": 234781
+  },
+  {
+    "slug": "tomas-soucek",
+    "spieler_id": 283628
+  },
+  {
+    "slug": "jarrod-bowen",
+    "spieler_id": 314875
+  },
+  {
+    "slug": "kalvin-phillips",
+    "spieler_id": 351749
+  },
+  {
+    "slug": "naif-aguerd",
+    "spieler_id": 361914
+  },
+  {
+    "slug": "edson-omar-alvarez-velazquez",
+    "spieler_id": 401356
+  },
+  {
+    "slug": "konstantinos-mavropanos",
+    "spieler_id": 415912
+  },
+  {
+    "slug": "lucas-tolentino-coelho-de-lima",
+    "spieler_id": 444523
+  },
+  {
+    "slug": "benjamin-johnson",
+    "spieler_id": 468002
+  },
+  {
+    "slug": "mohammed-kudus",
+    "spieler_id": 543499
+  },
+  {
+    "slug": "joseph-anang",
+    "spieler_id": 576099
+  },
+  {
+    "slug": "divin-mubama",
+    "spieler_id": 670848
+  },
+  {
+    "slug": "robin-olsen",
+    "spieler_id": 75458
+  },
+  {
+    "slug": "damian-emiliano-martinez",
+    "spieler_id": 111873
+  },
+  {
+    "slug": "lucas-digne",
+    "spieler_id": 126664
+  },
+  {
+    "slug": "clement-lenglet",
+    "spieler_id": 182904
+  },
+  {
+    "slug": "alejandro-moreno-lopera",
+    "spieler_id": 193098
+  },
+  {
+    "slug": "john-mcginn",
+    "spieler_id": 193116
+  },
+  {
+    "slug": "calum-chambers",
+    "spieler_id": 215118
+  },
+  {
+    "slug": "kortney-hause",
+    "spieler_id": 233124
+  },
+  {
+    "slug": "youri-tielemans",
+    "spieler_id": 249565
+  },
+  {
+    "slug": "tyrone-mings",
+    "spieler_id": 253677
+  },
+  {
+    "slug": "emiliano-buendia",
+    "spieler_id": 321247
+  },
+  {
+    "slug": "ollie-watkins",
+    "spieler_id": 324358
+  },
+  {
+    "slug": "diego-carlos-santos-silva",
+    "spieler_id": 329145
+  },
+  {
+    "slug": "leon-bailey-butler",
+    "spieler_id": 387626
+  },
+  {
+    "slug": "nicolo-zaniolo",
+    "spieler_id": 392085
+  },
+  {
+    "slug": "boubacar-kamara",
+    "spieler_id": 394327
+  },
+  {
+    "slug": "moussa-diaby",
+    "spieler_id": 395516
+  },
+  {
+    "slug": "pau-francisco-torres",
+    "spieler_id": 399776
+  },
+  {
+    "slug": "ezri-konsa-ngoyo",
+    "spieler_id": 413403
+  },
+  {
+    "slug": "matty-cash",
+    "spieler_id": 425334
+  },
+  {
+    "slug": "douglas-luiz-soares-de-paulo",
+    "spieler_id": 447661
+  },
+  {
+    "slug": "",
+    "spieler_id": 503743
+  },
+  {
+    "slug": "jacob-ramsey",
+    "spieler_id": 503749
+  },
+  {
+    "slug": "",
+    "spieler_id": 591844
+  },
+  {
+    "slug": "",
+    "spieler_id": 626888
+  },
+  {
+    "slug": "jhon-jader-duran-palacio",
+    "spieler_id": 649317
+  },
+  {
+    "slug": "tim-iroegbunam",
+    "spieler_id": 696589
+  },
+  {
+    "slug": "pablo-sarabia-garcia",
+    "spieler_id": 74230
+  },
+  {
+    "slug": "craig-dawson",
+    "spieler_id": 121477
+  },
+  {
+    "slug": "daniel-bentley",
+    "spieler_id": 136401
+  },
+  {
+    "slug": "mario-lemina",
+    "spieler_id": 170934
+  },
+  {
+    "slug": "matt-doherty",
+    "spieler_id": 171679
+  },
+  {
+    "slug": "thomas-king",
+    "spieler_id": 215810
+  },
+  {
+    "slug": "nelson-cabral-semedo",
+    "spieler_id": 231572
+  },
+  {
+    "slug": "jose-pedro-malheiro-de-sa",
+    "spieler_id": 249994
+  },
+  {
+    "slug": "hee-chan-hwang",
+    "spieler_id": 292246
+  },
+  {
+    "slug": "thomas-doyle-2001-10-17",
+    "spieler_id": 433183
+  },
+  {
+    "slug": "santiago-ignacio-bueno-sciutto",
+    "spieler_id": 438001
+  },
+  {
+    "slug": "jean-ricner-bellegarde",
+    "spieler_id": 450050
+  },
+  {
+    "slug": "pedro-lomba-neto",
+    "spieler_id": 487465
+  },
+  {
+    "slug": "matheus-santos-carneiro-da-cunha",
+    "spieler_id": 517894
+  },
+  {
+    "slug": "max-kilman",
+    "spieler_id": 525247
+  },
+  {
+    "slug": "rayan-ait-nouri",
+    "spieler_id": 578391
+  },
+  {
+    "slug": "tote-antonio-gomes",
+    "spieler_id": 606718
+  },
+  {
+    "slug": "boubacar-traore-2001-08-20",
+    "spieler_id": 649020
+  },
+  {
+    "slug": "hugo-bueno",
+    "spieler_id": 698678
+  },
+  {
+    "slug": "joao-victor-gomes-da-silva",
+    "spieler_id": 735570
+  },
+  {
+    "slug": "",
+    "spieler_id": 816124
+  },
+  {
+    "slug": "nathan-john-mark-fraser",
+    "spieler_id": 863741
+  },
+  {
+    "slug": "enso-david-gonzalez-medina",
+    "spieler_id": 1060740
+  },
+  {
+    "slug": "thiago-emiliano-da-silva",
+    "spieler_id": 29241
+  },
+  {
+    "slug": "marcus-bettinelli",
+    "spieler_id": 116648
+  },
+  {
+    "slug": "raheem-shaquille-sterling",
+    "spieler_id": 134425
+  },
+  {
+    "slug": "marc-cucurella-saseta",
+    "spieler_id": 284857
+  },
+  {
+    "slug": "ben-chilwell",
+    "spieler_id": 316125
+  },
+  {
+    "slug": "christopher-nkunku",
+    "spieler_id": 344381
+  },
+  {
+    "slug": "malang-sarr",
+    "spieler_id": 344596
+  },
+  {
+    "slug": "trevoh-chalobah",
+    "spieler_id": 346314
+  },
+  {
+    "slug": "axel-disasi",
+    "spieler_id": 386047
+  },
+  {
+    "slug": "robert-lynch-sanchez",
+    "spieler_id": 403151
+  },
+  {
+    "slug": "benoit-badiashile-mukinayi",
+    "spieler_id": 463603
+  },
+  {
+    "slug": "dorde-petrovic-1999-10-08",
+    "spieler_id": 465555
+  },
+  {
+    "slug": "reece-james",
+    "spieler_id": 472423
+  },
+  {
+    "slug": "wesley-fofana",
+    "spieler_id": 475411
+  },
+  {
+    "slug": "conor-gallagher",
+    "spieler_id": 488362
+  },
+  {
+    "slug": "chukwunonso-madueke",
+    "spieler_id": 503987
+  },
+  {
+    "slug": "mykhailo-mudryk",
+    "spieler_id": 537860
+  },
+  {
+    "slug": "cole-palmer",
+    "spieler_id": 568177
+  },
+  {
+    "slug": "levi-colwill",
+    "spieler_id": 614258
+  },
+  {
+    "slug": "malo-gusto",
+    "spieler_id": 620322
+  },
+  {
+    "slug": "",
+    "spieler_id": 622380
+  },
+  {
+    "slug": "romeo-lavia",
+    "spieler_id": 628451
+  },
+  {
+    "slug": "enzo-jeremias-fernandez",
+    "spieler_id": 648195
+  },
+  {
+    "slug": "",
+    "spieler_id": 655006
+  },
+  {
+    "slug": "carney-chukwuemeka",
+    "spieler_id": 659459
+  },
+  {
+    "slug": "moises-isaac-caicedo-corozo",
+    "spieler_id": 687626
+  },
+  {
+    "slug": "chimuanya-ugochukwu",
+    "spieler_id": 711999
+  },
+  {
+    "slug": "nicolas-jackson",
+    "spieler_id": 776890
+  },
+  {
+    "slug": "alfie-gilchrist",
+    "spieler_id": 790992
+  },
+  {
+    "slug": "deivid-washington-de-souza-eugenio",
+    "spieler_id": 1082850
+  },
+  {
+    "slug": "wayne-hennessey",
+    "spieler_id": 45494
+  },
+  {
+    "slug": "",
+    "spieler_id": 55742
+  },
+  {
+    "slug": "cheikhou-kouyate",
+    "spieler_id": 66934
+  },
+  {
+    "slug": "chris-wood",
+    "spieler_id": 108725
+  },
+  {
+    "slug": "odisseas-vlachodimos",
+    "spieler_id": 124419
+  },
+  {
+    "slug": "",
+    "spieler_id": 127202
+  },
+  {
+    "slug": "willy-boly",
+    "spieler_id": 142310
+  },
+  {
+    "slug": "divock-okoth-origi",
+    "spieler_id": 148368
+  },
+  {
+    "slug": "felipe-augusto-de-almeida-monteiro",
+    "spieler_id": 156501
+  },
+  {
+    "slug": "harry-toffolo",
+    "spieler_id": 198516
+  },
+  {
+    "slug": "temitayo-olufisayo-olaoluwa-aina",
+    "spieler_id": 236490
+  },
+  {
+    "slug": "moussa-niakhate",
+    "spieler_id": 291200
+  },
+  {
+    "slug": "taiwo-michael-awoniyi",
+    "spieler_id": 295313
+  },
+  {
+    "slug": "ibrahim-sangare",
+    "spieler_id": 375885
+  },
+  {
+    "slug": "callum-hudson-odoi",
+    "spieler_id": 392768
+  },
+  {
+    "slug": "gonzalo-ariel-montiel",
+    "spieler_id": 402733
+  },
+  {
+    "slug": "matt-turner",
+    "spieler_id": 425306
+  },
+  {
+    "slug": "ryan-yates-1997-01-28",
+    "spieler_id": 425902
+  },
+  {
+    "slug": "morgan-gibbs-white",
+    "spieler_id": 429014
+  },
+  {
+    "slug": "nicolas-dominguez",
+    "spieler_id": 497291
+  },
+  {
+    "slug": "neco-williams",
+    "spieler_id": 503680
+  },
+  {
+    "slug": "giovanni-reyna",
+    "spieler_id": 504215
+  },
+  {
+    "slug": "nuno-albertino-varela-tavares",
+    "spieler_id": 535955
+  },
+  {
+    "slug": "anthony-elanga",
+    "spieler_id": 583189
+  },
+  {
+    "slug": "andrew-omobamidele",
+    "spieler_id": 621993
+  },
+  {
+    "slug": "",
+    "spieler_id": 726701
+  },
+  {
+    "slug": "danilo-dos-santos-de-oliveira",
+    "spieler_id": 808509
+  },
+  {
+    "slug": "murillo-santiago-costa-dos-santos",
+    "spieler_id": 1005649
+  },
+  {
+    "slug": "martin-dubravka",
+    "spieler_id": 74960
+  },
+  {
+    "slug": "loris-karius",
+    "spieler_id": 85864
+  },
+  {
+    "slug": "matt-ritchie",
+    "spieler_id": 92469
+  },
+  {
+    "slug": "kieran-trippier",
+    "spieler_id": 95810
+  },
+  {
+    "slug": "callum-wilson",
+    "spieler_id": 123682
+  },
+  {
+    "slug": "dan-burn",
+    "spieler_id": 134270
+  },
+  {
+    "slug": "fabian-lukas-schar",
+    "spieler_id": 135343
+  },
+  {
+    "slug": "mark-gillespie",
+    "spieler_id": 142389
+  },
+  {
+    "slug": "paul-dummett",
+    "spieler_id": 170321
+  },
+  {
+    "slug": "jamal-lascelles",
+    "spieler_id": 183318
+  },
+  {
+    "slug": "emil-krafth",
+    "spieler_id": 184528
+  },
+  {
+    "slug": "nick-pope",
+    "spieler_id": 192080
+  },
+  {
+    "slug": "jacob-murphy",
+    "spieler_id": 199527
+  },
+  {
+    "slug": "matt-targett",
+    "spieler_id": 250478
+  },
+  {
+    "slug": "miguel-angel-almiron-rejala",
+    "spieler_id": 272999
+  },
+  {
+    "slug": "joelinton-cassio-apolinario-de-lira",
+    "spieler_id": 333241
+  },
+  {
+    "slug": "joseph-willock",
+    "spieler_id": 340329
+  },
+  {
+    "slug": "sean-longstaff",
+    "spieler_id": 346707
+  },
+  {
+    "slug": "alexander-isak",
+    "spieler_id": 349066
+  },
+  {
+    "slug": "sven-botman",
+    "spieler_id": 361093
+  },
+  {
+    "slug": "sandro-tonali",
+    "spieler_id": 397033
+  },
+  {
+    "slug": "harvey-lewis-barnes",
+    "spieler_id": 398065
+  },
+  {
+    "slug": "anthony-gordon",
+    "spieler_id": 503733
+  },
+  {
+    "slug": "valentino-livramento",
+    "spieler_id": 503981
+  },
+  {
+    "slug": "bruno-guimaraes-rodriguez-moura",
+    "spieler_id": 520624
+  },
+  {
+    "slug": "elliott-anderson",
+    "spieler_id": 567576
+  },
+  {
+    "slug": "lewis-hall-2004-09-08",
+    "spieler_id": 670858
+  },
+  {
+    "slug": "lewis-miley",
+    "spieler_id": 922769
+  },
+  {
+    "slug": "james-tomkins",
+    "spieler_id": 61592
+  },
+  {
+    "slug": "nathaniel-edwin-clyne",
+    "spieler_id": 85177
+  },
+  {
+    "slug": "joel-ward",
+    "spieler_id": 92572
+  },
+  {
+    "slug": "jordan-ayew",
+    "spieler_id": 108354
+  },
+  {
+    "slug": "sam-johnstone",
+    "spieler_id": 110864
+  },
+  {
+    "slug": "jeffrey-schlupp",
+    "spieler_id": 157506
+  },
+  {
+    "slug": "remi-matthews",
+    "spieler_id": 196722
+  },
+  {
+    "slug": "will-hughes",
+    "spieler_id": 207014
+  },
+  {
+    "slug": "jairo-riedewald",
+    "spieler_id": 241481
+  },
+  {
+    "slug": "rob-holding",
+    "spieler_id": 253341
+  },
+  {
+    "slug": "dean-henderson",
+    "spieler_id": 258919
+  },
+  {
+    "slug": "joachim-andersen",
+    "spieler_id": 260827
+  },
+  {
+    "slug": "jefferson-andres-lerma-solis",
+    "spieler_id": 262980
+  },
+  {
+    "slug": "odsonne-edouard",
+    "spieler_id": 344152
+  },
+  {
+    "slug": "marc-guehi",
+    "spieler_id": 392757
+  },
+  {
+    "slug": "jean-philippe-mateta",
+    "spieler_id": 420002
+  },
+  {
+    "slug": "eberechi-eze",
+    "spieler_id": 479999
+  },
+  {
+    "slug": "",
+    "spieler_id": 493003
+  },
+  {
+    "slug": "nathan-ferguson-2000-10-06",
+    "spieler_id": 507254
+  },
+  {
+    "slug": "naouirou-ahamada-2002-03-29",
+    "spieler_id": 538971
+  },
+  {
+    "slug": "cheick-oumar-doucoure",
+    "spieler_id": 543387
+  },
+  {
+    "slug": "michael-olise",
+    "spieler_id": 566723
+  },
+  {
+    "slug": "chris-richards",
+    "spieler_id": 578539
+  },
+  {
+    "slug": "jesuran-rak-sakyi",
+    "spieler_id": 586834
+  },
+  {
+    "slug": "joseph-charles-whitworth",
+    "spieler_id": 670840
+  },
+  {
+    "slug": "tyrick-mitchell",
+    "spieler_id": 730893
+  },
+  {
+    "slug": "matheus-franca-de-oliveira",
+    "spieler_id": 743597
+  },
+  {
+    "slug": "",
+    "spieler_id": 744149
+  },
+  {
+    "slug": "willian-borges-da-silva",
+    "spieler_id": 52769
+  },
+  {
+    "slug": "bernd-leno",
+    "spieler_id": 72476
+  },
+  {
+    "slug": "tom-cairney",
+    "spieler_id": 123275
+  },
+  {
+    "slug": "tim-ream",
+    "spieler_id": 145466
+  },
+  {
+    "slug": "bobby-reid",
+    "spieler_id": 186186
+  },
+  {
+    "slug": "marek-rodak",
+    "spieler_id": 186901
+  },
+  {
+    "slug": "andreas-hoelgebaum-pereira",
+    "spieler_id": 203394
+  },
+  {
+    "slug": "adama-traore-diarra",
+    "spieler_id": 204103
+  },
+  {
+    "slug": "raul-alonso-jimenez-rodriguez",
+    "spieler_id": 206040
+  },
+  {
+    "slug": "kenny-tete",
+    "spieler_id": 206746
+  },
+  {
+    "slug": "harrison-reed",
+    "spieler_id": 226973
+  },
+  {
+    "slug": "alex-iwobi",
+    "spieler_id": 242631
+  },
+  {
+    "slug": "sasa-lukic",
+    "spieler_id": 245056
+  },
+  {
+    "slug": "joao-maria-lobo-alves-palhinha-goncalves",
+    "spieler_id": 257455
+  },
+  {
+    "slug": "oluwatosin-adarabioyo",
+    "spieler_id": 258878
+  },
+  {
+    "slug": "timothy-castagne",
+    "spieler_id": 262226
+  },
+  {
+    "slug": "issa-diop",
+    "spieler_id": 272622
+  },
+  {
+    "slug": "harry-wilson",
+    "spieler_id": 279455
+  },
+  {
+    "slug": "fode-ballo-toure",
+    "spieler_id": 296422
+  },
+  {
+    "slug": "antonee-robinson",
+    "spieler_id": 349701
+  },
+  {
+    "slug": "steven-benda",
+    "spieler_id": 381469
+  },
+  {
+    "slug": "calvin-ughelumba",
+    "spieler_id": 461883
+  },
+  {
+    "slug": "armando-broja",
+    "spieler_id": 571743
+  },
+  {
+    "slug": "rodrigo-muniz-carvalho",
+    "spieler_id": 735571
+  },
+  {
+    "slug": "carlos-henrique-casimiro",
+    "spieler_id": 16306
+  },
+  {
+    "slug": "tom-heaton",
+    "spieler_id": 34130
+  },
+  {
+    "slug": "jonny-evans",
+    "spieler_id": 42412
+  },
+  {
+    "slug": "christian-dannemann-eriksen",
+    "spieler_id": 69633
+  },
+  {
+    "slug": "raphael-varane",
+    "spieler_id": 164770
+  },
+  {
+    "slug": "harry-maguire",
+    "spieler_id": 177907
+  },
+  {
+    "slug": "anthony-martial",
+    "spieler_id": 182877
+  },
+  {
+    "slug": "luke-shaw",
+    "spieler_id": 183288
+  },
+  {
+    "slug": "victor-nilsson-lindelof",
+    "spieler_id": 184573
+  },
+  {
+    "slug": "andre-onana",
+    "spieler_id": 234509
+  },
+  {
+    "slug": "bruno-miguel-borges-fernandes",
+    "spieler_id": 240306
+  },
+  {
+    "slug": "marcus-rashford",
+    "spieler_id": 258923
+  },
+  {
+    "slug": "sofyan-amrabat",
+    "spieler_id": 287579
+  },
+  {
+    "slug": "scott-mctominay",
+    "spieler_id": 315969
+  },
+  {
+    "slug": "altay-bayindir",
+    "spieler_id": 336077
+  },
+  {
+    "slug": "tyrell-malacia",
+    "spieler_id": 339340
+  },
+  {
+    "slug": "mason-mount",
+    "spieler_id": 346483
+  },
+  {
+    "slug": "jose-diogo-dalot-teixeira",
+    "spieler_id": 357147
+  },
+  {
+    "slug": "aaron-wan-bissaka",
+    "spieler_id": 477758
+  },
+  {
+    "slug": "lisandro-martinez",
+    "spieler_id": 480762
+  },
+  {
+    "slug": "amad-diallo-traore",
+    "spieler_id": 536835
+  },
+  {
+    "slug": "antony-matheus-dos-santos",
+    "spieler_id": 602105
+  },
+  {
+    "slug": "rasmus-winther-hojlund",
+    "spieler_id": 610442
+  },
+  {
+    "slug": "shola-shoretire",
+    "spieler_id": 640026
+  },
+  {
+    "slug": "",
+    "spieler_id": 780630
+  },
+  {
+    "slug": "alejandro-garnacho-ferreyra",
+    "spieler_id": 811779
+  },
+  {
+    "slug": "kobbie-mainoo",
+    "spieler_id": 820374
+  },
+  {
+    "slug": "darren-randolph",
+    "spieler_id": 51321
+  },
+  {
+    "slug": "adam-smith-1991-04-29",
+    "spieler_id": 61841
+  },
+  {
+    "slug": "norberto-murara-neto",
+    "spieler_id": 111819
+  },
+  {
+    "slug": "ryan-fredericks",
+    "spieler_id": 140191
+  },
+  {
+    "slug": "ryan-christie-1995-02-22",
+    "spieler_id": 188077
+  },
+  {
+    "slug": "lewis-cook",
+    "spieler_id": 249089
+  },
+  {
+    "slug": "enes-unal",
+    "spieler_id": 251106
+  },
+  {
+    "slug": "dominic-solanke",
+    "spieler_id": 258889
+  },
+  {
+    "slug": "ionu-andrei-radu",
+    "spieler_id": 303657
+  },
+  {
+    "slug": "philip-billing",
+    "spieler_id": 320411
+  },
+  {
+    "slug": "justin-kluivert",
+    "spieler_id": 330659
+  },
+  {
+    "slug": "tyler-adams",
+    "spieler_id": 332705
+  },
+  {
+    "slug": "mark-travers",
+    "spieler_id": 357658
+  },
+  {
+    "slug": "marcus-tavernier",
+    "spieler_id": 399434
+  },
+  {
+    "slug": "marcos-senesi",
+    "spieler_id": 469781
+  },
+  {
+    "slug": "maximillian-james-aarons",
+    "spieler_id": 471690
+  },
+  {
+    "slug": "lloyd-kelly",
+    "spieler_id": 480116
+  },
+  {
+    "slug": "chris-mepham",
+    "spieler_id": 480987
+  },
+  {
+    "slug": "luis-fernando-sinisterra-lucumi",
+    "spieler_id": 512385
+  },
+  {
+    "slug": "",
+    "spieler_id": 555076
+  },
+  {
+    "slug": "antoine-semenyo",
+    "spieler_id": 583255
+  },
+  {
+    "slug": "",
+    "spieler_id": 611793
+  },
+  {
+    "slug": "illia-zabarnyi",
+    "spieler_id": 659089
+  },
+  {
+    "slug": "milos-kerkez",
+    "spieler_id": 730861
+  },
+  {
+    "slug": "dango-aboubacar-faissal-ouattara",
+    "spieler_id": 823231
+  },
+  {
+    "slug": "alex-scott",
+    "spieler_id": 855256
+  },
+  {
+    "slug": "tim-krul",
+    "spieler_id": 33027
+  },
+  {
+    "slug": "andros-townsend",
+    "spieler_id": 61842
+  },
+  {
+    "slug": "thomas-kaminski",
+    "spieler_id": 77757
+  },
+  {
+    "slug": "james-shea",
+    "spieler_id": 91340
+  },
+  {
+    "slug": "luke-berry",
+    "spieler_id": 125685
+  },
+  {
+    "slug": "ross-barkley",
+    "spieler_id": 131978
+  },
+  {
+    "slug": "cauley-woodrow",
+    "spieler_id": 169801
+  },
+  {
+    "slug": "jordan-clark",
+    "spieler_id": 184129
+  },
+  {
+    "slug": "daniel-potts",
+    "spieler_id": 207037
+  },
+  {
+    "slug": "tom-lockyer",
+    "spieler_id": 207742
+  },
+  {
+    "slug": "pelly-ruddock-mpanzu",
+    "spieler_id": 244338
+  },
+  {
+    "slug": "carlton-morris",
+    "spieler_id": 246963
+  },
+  {
+    "slug": "reece-burke",
+    "spieler_id": 264220
+  },
+  {
+    "slug": "amari-i-bell",
+    "spieler_id": 278166
+  },
+  {
+    "slug": "",
+    "spieler_id": 305274
+  },
+  {
+    "slug": "elijah-adebayo",
+    "spieler_id": 319900
+  },
+  {
+    "slug": "marvelous-nakamba",
+    "spieler_id": 324882
+  },
+  {
+    "slug": "tahith-chong",
+    "spieler_id": 344830
+  },
+  {
+    "slug": "gabriel-osho",
+    "spieler_id": 364409
+  },
+  {
+    "slug": "albert-mboyo-sambi-lokonga",
+    "spieler_id": 381967
+  },
+  {
+    "slug": "",
+    "spieler_id": 387191
+  },
+  {
+    "slug": "chiedozie-ogbene",
+    "spieler_id": 392591
+  },
+  {
+    "slug": "mads-juel-andersen",
+    "spieler_id": 407021
+  },
+  {
+    "slug": "jacob-brown",
+    "spieler_id": 469958
+  },
+  {
+    "slug": "",
+    "spieler_id": 496661
+  },
+  {
+    "slug": "teden-mengi",
+    "spieler_id": 548470
+  },
+  {
+    "slug": "alfie-doughty",
+    "spieler_id": 608175
+  },
+  {
+    "slug": "issa-kabore",
+    "spieler_id": 649452
+  },
+  {
+    "slug": "jack-cork",
+    "spieler_id": 40613
+  },
+  {
+    "slug": "jay-rodriguez",
+    "spieler_id": 53360
+  },
+  {
+    "slug": "johann-berg-gudmunds-son",
+    "spieler_id": 89231
+  },
+  {
+    "slug": "nathan-redmond",
+    "spieler_id": 129078
+  },
+  {
+    "slug": "charlie-taylor",
+    "spieler_id": 195633
+  },
+  {
+    "slug": "josh-cullen",
+    "spieler_id": 242606
+  },
+  {
+    "slug": "lawrence-vigouroux",
+    "spieler_id": 243591
+  },
+  {
+    "slug": "jacob-bruun-larsen",
+    "spieler_id": 293281
+  },
+  {
+    "slug": "josh-brownhill",
+    "spieler_id": 293569
+  },
+  {
+    "slug": "manuel-benson-hedilazio",
+    "spieler_id": 322702
+  },
+  {
+    "slug": "sander-berge",
+    "spieler_id": 333014
+  },
+  {
+    "slug": "hannes-delcroix",
+    "spieler_id": 338635
+  },
+  {
+    "slug": "arijanet-muric",
+    "spieler_id": 371021
+  },
+  {
+    "slug": "mike-tresor-ndayishimiye",
+    "spieler_id": 381963
+  },
+  {
+    "slug": "hjalmar-ekdal",
+    "spieler_id": 392179
+  },
+  {
+    "slug": "dara-o-shea",
+    "spieler_id": 401320
+  },
+  {
+    "slug": "louis-jordan-beyer",
+    "spieler_id": 403898
+  },
+  {
+    "slug": "lyle-foster",
+    "spieler_id": 467623
+  },
+  {
+    "slug": "victor-alexander-da-silva",
+    "spieler_id": 468249
+  },
+  {
+    "slug": "han-noah-massengo",
+    "spieler_id": 536508
+  },
+  {
+    "slug": "mohamed-zeki-amdouni",
+    "spieler_id": 548729
+  },
+  {
+    "slug": "james-trafford",
+    "spieler_id": 566799
+  },
+  {
+    "slug": "ameen-al-dakhil",
+    "spieler_id": 620598
+  },
+  {
+    "slug": "aaron-james-ramsey",
+    "spieler_id": 646658
+  },
+  {
+    "slug": "",
+    "spieler_id": 711969
+  },
+  {
+    "slug": "wilson-odobert",
+    "spieler_id": 743498
+  },
+  {
+    "slug": "luca-koleosho",
+    "spieler_id": 745461
+  },
+  {
+    "slug": "david-datro-fofana",
+    "spieler_id": 787232
+  },
+  {
+    "slug": "",
+    "spieler_id": 842341
+  },
+  {
+    "slug": "mathias-jattah-njie-jorgensen",
+    "spieler_id": 52059
+  },
+  {
+    "slug": "ben-mee",
+    "spieler_id": 74810
+  },
+  {
+    "slug": "mark-flekken",
+    "spieler_id": 125714
+  },
+  {
+    "slug": "christian-norgaard",
+    "spieler_id": 148367
+  },
+  {
+    "slug": "saman-ghoddos",
+    "spieler_id": 204294
+  },
+  {
+    "slug": "neal-maupay",
+    "spieler_id": 217115
+  },
+  {
+    "slug": "thomas-strakosha",
+    "spieler_id": 222209
+  },
+  {
+    "slug": "ivan-toney",
+    "spieler_id": 251664
+  },
+  {
+    "slug": "vitaly-janelt",
+    "spieler_id": 270171
+  },
+  {
+    "slug": "sergio-reguilon-rodriguez",
+    "spieler_id": 282429
+  },
+  {
+    "slug": "mathias-jensen",
+    "spieler_id": 319859
+  },
+  {
+    "slug": "kristoffer-vassbakk-ajer",
+    "spieler_id": 328658
+  },
+  {
+    "slug": "rico-henry",
+    "spieler_id": 339556
+  },
+  {
+    "slug": "pelenda-joshua-tunga-dasilva",
+    "spieler_id": 340321
+  },
+  {
+    "slug": "yoane-wissa",
+    "spieler_id": 388165
+  },
+  {
+    "slug": "mads-roerslev-rasmussen",
+    "spieler_id": 391005
+  },
+  {
+    "slug": "bryan-mbeumo",
+    "spieler_id": 413039
+  },
+  {
+    "slug": "ogochukwu-onyeka-frank",
+    "spieler_id": 421637
+  },
+  {
+    "slug": "ethan-pinnock",
+    "spieler_id": 442248
+  },
+  {
+    "slug": "ellery-balcombe",
+    "spieler_id": 456292
+  },
+  {
+    "slug": "nathan-michael-collins",
+    "spieler_id": 469050
+  },
+  {
+    "slug": "kevin-schade",
+    "spieler_id": 473050
+  },
+  {
+    "slug": "",
+    "spieler_id": 488935
+  },
+  {
+    "slug": "shandon-baptiste",
+    "spieler_id": 533916
+  },
+  {
+    "slug": "mikkel-damsgaard",
+    "spieler_id": 540941
+  },
+  {
+    "slug": "aaron-hickey",
+    "spieler_id": 591949
+  },
+  {
+    "slug": "keane-lewis-potter",
+    "spieler_id": 644401
+  },
+  {
+    "slug": "ehor-yarmolyuk",
+    "spieler_id": 717411
+  },
+  {
+    "slug": "",
+    "spieler_id": 874538
+  },
+  {
+    "slug": "",
+    "spieler_id": 1141628
+  },
+  {
+    "slug": "james-philip-milner",
+    "spieler_id": 3333
+  },
+  {
+    "slug": "adam-david-lallana",
+    "spieler_id": 43530
+  },
+  {
+    "slug": "daniel-nii-tackie-mensah-welbeck",
+    "spieler_id": 67063
+  },
+  {
+    "slug": "jason-steele",
+    "spieler_id": 73564
+  },
+  {
+    "slug": "pascal-gross",
+    "spieler_id": 82873
+  },
+  {
+    "slug": "joel-veltman",
+    "spieler_id": 111195
+  },
+  {
+    "slug": "lewis-dunk",
+    "spieler_id": 148153
+  },
+  {
+    "slug": "solomon-march",
+    "spieler_id": 209212
+  },
+  {
+    "slug": "adam-webster",
+    "spieler_id": 212847
+  },
+  {
+    "slug": "pervis-josue-estupinan-tenorio",
+    "spieler_id": 349599
+  },
+  {
+    "slug": "igor-julio-dos-santos-de-paulo",
+    "spieler_id": 380350
+  },
+  {
+    "slug": "jakub-moder",
+    "spieler_id": 384461
+  },
+  {
+    "slug": "thomas-mcgill",
+    "spieler_id": 406556
+  },
+  {
+    "slug": "billy-gilmour",
+    "spieler_id": 423744
+  },
+  {
+    "slug": "anssumane-fati",
+    "spieler_id": 466810
+  },
+  {
+    "slug": "tariq-lamptey",
+    "spieler_id": 504148
+  },
+  {
+    "slug": "kaoru-mitoma",
+    "spieler_id": 504849
+  },
+  {
+    "slug": "bart-verbruggen",
+    "spieler_id": 565093
+  },
+  {
+    "slug": "jan-paul-van-hecke",
+    "spieler_id": 576314
+  },
+  {
+    "slug": "joao-pedro-junqueira-de-jesus",
+    "spieler_id": 626724
+  },
+  {
+    "slug": "evan-ferguson",
+    "spieler_id": 648046
+  },
+  {
+    "slug": "simon-adingra",
+    "spieler_id": 658536
+  },
+  {
+    "slug": "julio-enciso",
+    "spieler_id": 660867
+  },
+  {
+    "slug": "",
+    "spieler_id": 849410
+  },
+  {
+    "slug": "jack-hinshelwood",
+    "spieler_id": 867688
+  },
+  {
+    "slug": "carlos-balepa-noom-quomah",
+    "spieler_id": 973085
+  },
+  {
+    "slug": "facundo-valentin-buonanotte",
+    "spieler_id": 983989
+  }
+]

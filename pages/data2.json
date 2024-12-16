@@ -1,0 +1,74 @@
+[
+  {
+    "team": "1. FC Heidenheim 1846",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/6418.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "1. FC Union Berlin",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/598.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Bayer Leverkusen",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/131.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Bayern Munich",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/132.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Borussia Dortmund",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/124.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Borussia Monchengladbach",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/268.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Eintracht Frankfurt",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/125.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "FC Augsburg",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3841.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Holstein Kiel",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7884.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Mainz",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2950.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "RB Leipzig",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11420.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "SC Freiburg",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/126.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "St. Pauli",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/270.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "TSG Hoffenheim",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7911.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "VfB Stuttgart",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/134.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "VfL Bochum",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/121.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "VfL Wolfsburg",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/138.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Werder Bremen",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/137.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  }
+]

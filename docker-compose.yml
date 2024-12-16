@@ -1,0 +1,13 @@
+# docker-compose.yml
+#version: "3.8"
+
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8501:8501" # Maps port 8501 in the container to port 8501 on the host
+    volumes:
+      - .:/app # Syncs the local project directory with the container directory
+    command: streamlit run app.py # Start the Streamlit app

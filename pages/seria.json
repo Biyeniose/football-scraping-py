@@ -1,0 +1,102 @@
+[
+  {
+    "team_name": "Inter Milan",
+    "url": "/inter-mailand/startseite/verein/46/saison_id/2024",
+    "team_id": "46"
+  },
+  {
+    "team_name": "Juventus",
+    "url": "/juventus-turin/startseite/verein/506/saison_id/2024",
+    "team_id": "506"
+  },
+  {
+    "team_name": "AC Milan",
+    "url": "/ac-mailand/startseite/verein/5/saison_id/2024",
+    "team_id": "5"
+  },
+  {
+    "team_name": "Atalanta BC",
+    "url": "/atalanta-bergamo/startseite/verein/800/saison_id/2024",
+    "team_id": "800"
+  },
+  {
+    "team_name": "Napoli",
+    "url": "/ssc-neapel/startseite/verein/6195/saison_id/2024",
+    "team_id": "6195"
+  },
+  {
+    "team_name": "AS Roma",
+    "url": "/as-rom/startseite/verein/12/saison_id/2024",
+    "team_id": "12"
+  },
+  {
+    "team_name": "Bologna",
+    "url": "/fc-bologna/startseite/verein/1025/saison_id/2024",
+    "team_id": "1025"
+  },
+  {
+    "team_name": "Fiorentina",
+    "url": "/ac-florenz/startseite/verein/430/saison_id/2024",
+    "team_id": "430"
+  },
+  {
+    "team_name": "Lazio",
+    "url": "/lazio-rom/startseite/verein/398/saison_id/2024",
+    "team_id": "398"
+  },
+  {
+    "team_name": "Torino",
+    "url": "/fc-turin/startseite/verein/416/saison_id/2024",
+    "team_id": "416"
+  },
+  {
+    "team_name": "Genoa",
+    "url": "/genua-cfc/startseite/verein/252/saison_id/2024",
+    "team_id": "252"
+  },
+  {
+    "team_name": "Udinese",
+    "url": "/udinese-calcio/startseite/verein/410/saison_id/2024",
+    "team_id": "410"
+  },
+  {
+    "team_name": "Parma Calcio",
+    "url": "/parma-calcio-1913/startseite/verein/130/saison_id/2024",
+    "team_id": "130"
+  },
+  {
+    "team_name": "Como 1907",
+    "url": "/como-1907/startseite/verein/1047/saison_id/2024",
+    "team_id": "1047"
+  },
+  {
+    "team_name": "AC Monza",
+    "url": "/ac-monza/startseite/verein/2919/saison_id/2024",
+    "team_id": "2919"
+  },
+  {
+    "team_name": "US Lecce",
+    "url": "/us-lecce/startseite/verein/1005/saison_id/2024",
+    "team_id": "1005"
+  },
+  {
+    "team_name": "Hellas Verona",
+    "url": "/hellas-verona/startseite/verein/276/saison_id/2024",
+    "team_id": "276"
+  },
+  {
+    "team_name": "Cagliari",
+    "url": "/cagliari-calcio/startseite/verein/1390/saison_id/2024",
+    "team_id": "1390"
+  },
+  {
+    "team_name": "Empoli",
+    "url": "/fc-empoli/startseite/verein/749/saison_id/2024",
+    "team_id": "749"
+  },
+  {
+    "team_name": "Venezia",
+    "url": "/venezia-fc/startseite/verein/607/saison_id/2024",
+    "team_id": "607"
+  }
+]
