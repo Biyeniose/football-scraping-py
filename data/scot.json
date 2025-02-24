@@ -1,0 +1,50 @@
+[
+  {
+    "team": "Aberdeen FC",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/263.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Celtic",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/256.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Dundee FC",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/261.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Dundee United",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/264.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Heart of Midl.",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/262.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Hibernian FC",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/258.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Kilmarnock FC",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/260.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Motherwell FC",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/266.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Rangers",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/257.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Ross County",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/251.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "St. Johnstone",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/267.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "St. Mirren",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/250.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  }
+]

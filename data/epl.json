@@ -1,0 +1,82 @@
+[
+  {
+    "team": "Bournemouth",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/349.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Arsenal",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/359.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Aston Villa",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/362.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Brentford",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/337.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Brighton",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/331.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Chelsea",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/363.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Crystal Palace",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/384.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Everton",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/368.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Fulham",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/370.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Ipswich",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/373.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Leicester",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/375.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Liverpool",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/364.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Man City",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/382.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Man Utd",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/360.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Newcastle",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/361.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Nottm Forest",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/393.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Southampton",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/376.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Tottenham",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/367.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "West Ham",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/371.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Wolves",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/380.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  }
+]

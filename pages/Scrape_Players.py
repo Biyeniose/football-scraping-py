@@ -62,7 +62,7 @@ if st.button("Run code to Insert all EPL teams from .json file with Transfm team
 
 
 if st.button("Update ALL Players stats for ALL EPL teams"):
-    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, curr_season_url").eq("league_id", 2).execute()
+    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, transfm_season_url").eq("league_id", 2).execute()
 
     #st.write(response)
 
@@ -78,7 +78,7 @@ if st.button("Update ALL Players stats for ALL EPL teams"):
         # Format the slug to create a full name
         team_name = item["team_name"]
         team_transfm_id = item["team_transfm_id"]
-        url = item["curr_season_url"]
+        url = item["transfm_season_url"]
 
         soup = get_soup(url)
         clean_trs = should_keep_tr(get_page_trs(soup)) 
@@ -127,7 +127,7 @@ if st.button("Update Transfm TeamIDs and URLs of La Liga Teams"):
         # Insert into the Supabase players table
         data = {
             "team_transfm_id": transfm_team_id,
-            "curr_season_url": f"https://www.transfermarkt.us/{transfm_name}/leistungsdaten/verein/{transfm_team_id}/reldata/%262024/plus/1"
+            "transfm_season_url": f"https://www.transfermarkt.us/{transfm_name}/leistungsdaten/verein/{transfm_team_id}/reldata/%262024/plus/1"
         }
         
         try:
@@ -188,7 +188,7 @@ if st.button("Run code to Insert all LaLiga teams AND PLAYERS from .json file wi
                 #continue
 
 if st.button("Update ALL Players stats for ALL La Liga teams"):
-    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, curr_season_url").eq("league_id", 1).execute()
+    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, transfm_season_url").eq("league_id", 1).execute()
 
     #st.write(response)
 
@@ -199,7 +199,7 @@ if st.button("Update ALL Players stats for ALL La Liga teams"):
         # Format the slug to create a full name
         team_name = item["team_name"]
         team_transfm_id = item["team_transfm_id"]
-        url = item["curr_season_url"]
+        url = item["transfm_season_url"]
 
         soup = get_soup(url)
         clean_trs = should_keep_tr(get_page_trs(soup)) 
@@ -248,7 +248,7 @@ if st.button("Update Transfm TeamIDs and URLs of Bundesliga Teams"):
         # Insert into the Supabase players table
         data = {
             "team_transfm_id": transfm_team_id,
-            "curr_season_url": f"https://www.transfermarkt.us/{transfm_name}/leistungsdaten/verein/{transfm_team_id}/reldata/%262024/plus/1"
+            "transfm_season_url": f"https://www.transfermarkt.us/{transfm_name}/leistungsdaten/verein/{transfm_team_id}/reldata/%262024/plus/1"
         }
         
         try:
@@ -309,7 +309,7 @@ if st.button("Run code to Insert all Bundesliga teams  AND PLAYERS from .json fi
                 #continue
 
 if st.button("Update ALL Players stats for ALL Bundesliga teams"):
-    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, curr_season_url").eq("league_id", 3).execute()
+    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, transfm_season_url").eq("league_id", 3).execute()
 
     #st.write(response)
 
@@ -320,9 +320,14 @@ if st.button("Update ALL Players stats for ALL Bundesliga teams"):
         # Format the slug to create a full name
         team_name = item["team_name"]
         team_transfm_id = item["team_transfm_id"]
-        url = item["curr_season_url"]
+        url = item["transfm_season_url"]
 
-        soup = get_soup(url)
+        try:
+            soup = get_soup(url)
+        except Exception as e:
+            errors.append(team_name)
+            continue
+
         clean_trs = should_keep_tr(get_page_trs(soup)) 
         final_json = extract_player_jsons(clean_trs, "update")
         #final_json.pop("player_id")
@@ -369,7 +374,7 @@ if st.button("Update Transfm TeamIDs and URLs of Seria A Teams"):
         # Insert into the Supabase players table
         data = {
             "team_transfm_id": transfm_team_id,
-            "curr_season_url": f"https://www.transfermarkt.us/{transfm_name}/leistungsdaten/verein/{transfm_team_id}/reldata/%262024/plus/1"
+            "transfm_season_url": f"https://www.transfermarkt.us/{transfm_name}/leistungsdaten/verein/{transfm_team_id}/reldata/%262024/plus/1"
         }
         
         try:
@@ -430,7 +435,7 @@ if st.button("Run code to Insert all Seria A teams  AND PLAYERS from .json file 
                 #continue
 
 if st.button("Update ALL Players stats for ALL Seria A teams"):
-    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, curr_season_url").eq("league_id", 4).execute()
+    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, transfm_season_url").eq("league_id", 4).execute()
 
     #st.write(response)
 
@@ -441,7 +446,7 @@ if st.button("Update ALL Players stats for ALL Seria A teams"):
         # Format the slug to create a full name
         team_name = item["team_name"]
         team_transfm_id = item["team_transfm_id"]
-        url = item["curr_season_url"]
+        url = item["transfm_season_url"]
 
         soup = get_soup(url)
         clean_trs = should_keep_tr(get_page_trs(soup)) 
@@ -490,7 +495,7 @@ if st.button("Update Transfm TeamIDs and URLs of Ligue 1 Teams"):
         # Insert into the Supabase players table
         data = {
             "team_transfm_id": transfm_team_id,
-            "curr_season_url": f"https://www.transfermarkt.us/{transfm_name}/leistungsdaten/verein/{transfm_team_id}/reldata/%262024/plus/1"
+            "transfm_season_url": f"https://www.transfermarkt.us/{transfm_name}/leistungsdaten/verein/{transfm_team_id}/reldata/%262024/plus/1"
         }
         
         try:
@@ -551,7 +556,7 @@ if st.button("Run code to Insert all Ligue 1 teams from .json file with Transfm 
                 #continue
 
 if st.button("Update ALL Players stats for ALL Ligue 1 teams"):
-    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, curr_season_url").eq("league_id", 5).execute()
+    response = supabase.table("teams").select("team_name, team_id, team_transfm_id, transfm_season_url").eq("league_id", 5).execute()
 
     #st.write(response)
 
@@ -562,7 +567,7 @@ if st.button("Update ALL Players stats for ALL Ligue 1 teams"):
         # Format the slug to create a full name
         team_name = item["team_name"]
         team_transfm_id = item["team_transfm_id"]
-        url = item["curr_season_url"]
+        url = item["transfm_season_url"]
 
         soup = get_soup(url)
         clean_trs = should_keep_tr(get_page_trs(soup)) 
