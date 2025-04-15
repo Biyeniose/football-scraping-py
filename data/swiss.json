@@ -1,0 +1,50 @@
+[
+  {
+    "team": "FC Basel",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/989.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "FC Lugano",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7672.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "FC Luzern",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/7640.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "FC Sion",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3076.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "FC Zürich",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/3019.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Grasshoppers",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/492.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Lausanne-Sports",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/11551.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Servette FC",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20032.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "FC St. Gallen",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/557.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "FC Winterthur",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/20996.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "BSC Young Boys",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/2722.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  },
+  {
+    "team": "Yverdon Sport",
+    "image_url": "https://a.espncdn.com/combiner/i?img=/i/teamlogos/soccer/500/21538.png&scale=crop&cquality=40&location=origin&w=80&h=80"
+  }
+]
